@@ -22,8 +22,6 @@ class OurNeuralNetwork:
 
   *** DISCLAIMER ***:
   The code below is intended to be simple and educational, NOT optimal.
-  Real neural net code looks nothing like this. DO NOT use this code.
-  Instead, read/run it to understand how this specific network works.
   '''
   def __init__(self):
     # Weights
